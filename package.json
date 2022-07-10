@@ -18,10 +18,7 @@
   },
   "homepage": "https://github.com/thewilloftheshadow/watcher#readme",
   "dependencies": {
-    "@discordjs/rest": "^0.5.0",
-    "deepai": "^1.0.21",
-    "discord-api-types": "^0.34.0",
-    "dotenv": "^16.0.1",
+    "discord.js": "^13.7.0",
     "dotenv-extended": "^2.9.0",
     "express": "^4.18.1"
   },
